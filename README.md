@@ -68,9 +68,9 @@ Holy smokes you're here! Let's get started on using the coolest Flutter database
 ```yaml
 dependencies:
   isar:
-    git: https://github.com/Abdo73873/isar-4.0.0-dev.14.git
+    git: https://github.com/abdelrahman0606/isar-4.0.0-dev.14.git
   isar_flutter_libs:
-    git: https://github.com/Abdo73873/isar_flutter_libs-4.0.0-dev.14.git
+    git: https://github.com/abdelrahman0606/isar_flutter_libs-4.0.0-dev.14.git
 
 dev_dependencies:
   build_runner: any
